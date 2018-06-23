@@ -44,7 +44,7 @@
 
 * 生物学
 
-<img src='./resource/biology.jpg' height='127%' width='127%' />
+<img src='./resource/biology.JPG' height='127%' width='127%' />
 
 
 
