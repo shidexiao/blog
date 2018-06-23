@@ -1,4 +1,8 @@
-# shidexiao的博客
+## shidexiao的博客
+>博客的目的主要是为了作为个人学习笔记，方便查看复习，不过尽量写的通俗移动，希望可以帮到部分像我一样零基础自学的人，
+如有错误，欢迎拍砖
+
+
 
 
 
@@ -14,7 +18,12 @@
         * [ln](./linux_command/ln.md)
     * 磁盘管理
         * [ls](./linux_command/ls.md)
-* 工程杂谈
+    * 文档编辑
+        * [grep](./linux_command/grep.md)
+     
+* 版本管理
+
+    [github]()
 
 
 
