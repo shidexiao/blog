@@ -1,5 +1,6 @@
 
-![](./resource/timeline300.jpg)
+<img src='./resource/timeline300.jpg' height='110%' width='110%' />
+
 
 ## shidexiao的博客
 >博客的目的主要是为了作为个人学习笔记，方便查看复习，不过尽量写的通俗移动，希望可以帮到部分像我一样零基础自学的人，
